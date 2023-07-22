@@ -1,0 +1,43 @@
+.form_deg
+{
+
+	padding-top: 200px;
+}
+.lebel_deg
+{
+
+	display: inline-block;
+	color: white;
+	width: 100px;
+	text-align: right;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.login_form
+{
+background-color: black;
+width: 400px;
+padding-bottom: 70px;
+padding-top:70px;
+
+
+}
+.title_deg
+{
+	background-color: seagreen;
+	color: white;
+    text-align: center;
+    font-weight: bold;
+    width: 400px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+
+}
+.body_deg
+{
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: 100% 100%;
+
+}
